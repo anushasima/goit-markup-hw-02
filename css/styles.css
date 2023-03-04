@@ -38,3 +38,16 @@ body{
 span{
     color: #2e2f42;
 }
+
+.header-address{
+    font-style: normal;
+}
+.header-address-email{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
