@@ -195,7 +195,7 @@ span{
     color: #E7E9FC;
 }
 
-/*---BODY---*/
+/*---MAIN---*/
 
 .navigation-btn{
     font-family: 'Roboto';
@@ -206,9 +206,12 @@ span{
         display: flex;
         letter-spacing: 0.04em;
         color: #4d5ae5;
-        cursor: pointer;
+        
 }
-
+.button-hover{
+    cursor: pointer;
+    color: #FFFFFF;
+}
 .portfolio-header{
     font-family: 'Roboto';
     font-style: normal;
