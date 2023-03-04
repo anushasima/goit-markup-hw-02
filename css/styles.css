@@ -27,3 +27,14 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style: none;
+}
+
+span{
+    color: #2e2f42;
+}
