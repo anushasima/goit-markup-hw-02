@@ -62,6 +62,57 @@ span{
     color: #434455;
 }
 
+/*---1-SECTION---*/
+
+.section-one{
+    background-color: #2e2f42;
+}
+.section-one-header{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+}
+.section-one-btn{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        cursor: pointer;
+
+}
+
+/*---2-SECTION---*/
+
+.section-two-header{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.section-two-text{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
 /*---BODY---*/
 
 .navigation-btn{
@@ -76,9 +127,17 @@ span{
         cursor: pointer;
 }
 
+.portfolio-header{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
 
-
-
+/*---FOOTER---*/
 .footer-logo {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
