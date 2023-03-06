@@ -50,7 +50,7 @@ span{
 .header-address{
     font-style: normal;
 }
-.header-address-email{
+.header-email{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -59,7 +59,14 @@ span{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-address-tel{
+.header-email:hover{
+    color: #404bbf;
+}
+
+.header-email:focus{
+    color: #404bbf;
+}
+.header-tel{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -67,6 +74,13 @@ span{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.header-tel:hover{
+    color: #404bbf;
+}
+
+.header-tel:focus{
+    color: #404bbf;
 }
 
 /*---1-SECTION---*/
