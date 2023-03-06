@@ -32,6 +32,10 @@ body{
     color: #404bbf;
 }
 
+.header-link:focus{
+    color: #404bbf;
+}
+
 .link{
     text-decoration: none;
 }
