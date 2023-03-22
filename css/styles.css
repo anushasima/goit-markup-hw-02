@@ -149,7 +149,9 @@ span{
         letter-spacing: 0.02em;
         color: var(--body-color);
 }
-
+.section-four-li{
+    background-color: var(--white-color);
+}
 
 /*---FOOTER---*/
 .footer{
