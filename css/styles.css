@@ -12,8 +12,9 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    color: var(--white-color);
+    color: var(--text-color);
     font-weight: 400;
+    background-color: var(--white-color);
 }
 
 /*---HEADER---*/
